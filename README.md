@@ -1,8 +1,4 @@
-# SparklerLib 🎇 基于Pixi.js的烟花/礼花效果库
-
-## 🔥 效果演示
-![SparklerLib 烟花效果演示](https://github.com/tanlng/sparklerlib/blob/main/examples/images/20250409-162900.gif)
-*（展示烟花发射、爆炸及拖尾动画效果）*
+# SparklerLib 🎇 基于Pixi.js的烟花效果库
 
 ## 📦 安装方式
 ```bash
