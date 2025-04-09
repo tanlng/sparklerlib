@@ -1,6 +1,6 @@
 {
   "name": "sparklerlib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A library for creating sparkler and firework effects using PixiJS 8",
   "main": "dist/sparklerlib.cjs.js",
   "module": "dist/sparklerlib.esm.js",
