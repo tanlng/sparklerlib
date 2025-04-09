@@ -1,0 +1,29 @@
+{
+  "name": "sparklerlib",
+  "version": "1.0.5",
+  "description": "A library for creating sparkler and firework effects using PixiJS 8",
+  "main": "dist/sparklerlib.cjs.js",
+  "module": "dist/sparklerlib.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c rollup.config.mjs",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "pixijs",
+    "sparkler",
+    "firework"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.2",
+    "rollup": "^3.28.1",
+    "rollup-plugin-vue": "^6.0.0",
+    "tslib": "2.8.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "pixi.js": "^8.0.0"
+  }
+}
